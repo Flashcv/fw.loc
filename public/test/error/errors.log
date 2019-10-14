@@ -1,0 +1,14 @@
+[2019-10-13 02:18:31] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\public\test\error\index.php, Строка: 61
+===============
+[2019-10-13 02:22:19] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\public\test\error\index.php, Строка: 62
+===============
+[2019-10-13 02:22:19] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\public\test\error\index.php, Строка: 62
+===============
+[2019-10-13 02:22:31] Текст помилки: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in W:\domains\fw.loc\public\test\error\index.php:43
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler(Object(Error))
+#1 {main}
+  thrown | Файл: W:\domains\fw.loc\public\test\error\index.php, Строка: 43
+===============
+[2019-10-13 02:22:47] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\public\test\error\index.php, Строка: 72
+===============

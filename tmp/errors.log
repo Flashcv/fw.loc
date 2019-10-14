@@ -1,0 +1,1038 @@
+[2019-10-13 10:14:27] Текст помилки: syntax error, unexpected '$posts' (T_VARIABLE) | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 20
+===============
+[2019-10-13 10:36:43] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:37:18] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:37:32] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:39:29] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:39:31] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:41:41] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 10:42:03] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 10:42:09] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 10:55:49] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 17:47:14] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 17:50:54] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 17:50:55] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 17:51:09] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 17:52:37] Текст помилки: E_USER_ERROR | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 20
+===============
+[2019-10-13 17:54:06] Текст помилки: E_USER_ERROR | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 20
+===============
+[2019-10-13 17:55:22] Текст помилки: Undefined variable: test | Файл: W:\domains\fw.loc\app\controllers\MainController.php, Строка: 19
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:07] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:10] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:11] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:12] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:36] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:40] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:31:41] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:23] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:24] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:25] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:49] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:49] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:40:50] Текст помилки: Use of undefined constant id - assumed 'id' | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 46
+===============
+[2019-10-13 18:43:34] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 19:11:38] Текст помилки: Undefined index: childs | Файл: W:\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php, Строка: 5
+===============
+[2019-10-13 19:11:39] Текст помилки: Invalid argument supplied for foreach() | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 45
+===============
+[2019-10-13 19:11:40] Текст помилки: Undefined index: childs | Файл: W:\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php, Строка: 5
+===============
+[2019-10-13 19:11:40] Текст помилки: Invalid argument supplied for foreach() | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 45
+===============
+[2019-10-13 19:11:41] Текст помилки: Undefined index: childs | Файл: W:\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php, Строка: 5
+===============
+[2019-10-13 19:11:41] Текст помилки: Invalid argument supplied for foreach() | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 45
+===============
+[2019-10-13 19:11:42] Текст помилки: Undefined index: childs | Файл: W:\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php, Строка: 5
+===============
+[2019-10-13 19:11:42] Текст помилки: Invalid argument supplied for foreach() | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 45
+===============
+[2019-10-13 19:32:53] Текст помилки: syntax error, unexpected '$this' (T_VARIABLE) | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 27
+===============
+[2019-10-13 19:33:00] Текст помилки: syntax error, unexpected '$this' (T_VARIABLE) | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 27
+===============
+[2019-10-13 19:33:57] Текст помилки: syntax error, unexpected '$this' (T_VARIABLE) | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 27
+===============
+[2019-10-13 19:35:36] Текст помилки: Too few arguments to function vendor\widgets\menu\Menu::getMenuHtml(), 1 passed in W:\domains\fw.loc\vendor\widgets\menu\Menu.php on line 27 and exactly 3 expected | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 44
+===============
+[2019-10-13 19:38:24] Текст помилки: Array to string conversion | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 34
+===============
+[2019-10-13 20:07:34] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 20:07:38] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 20:07:42] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-13 20:30:31] Текст помилки: require(W:\domains\fw.loc\public/menu_tpl/select.php): failed to open stream: No such file or directory | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 72
+===============
+[2019-10-13 20:49:58] Текст помилки: Class 'vendor\widgets\menu\Cache' not found | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 41
+===============
+[2019-10-13 20:51:31] Текст помилки: Object of class vendor\widgets\menu\Menu could not be converted to string | Файл: W:\domains\fw.loc\vendor\widgets\menu\Menu.php, Строка: 44
+===============
+[2019-10-14 08:09:28] Текст помилки: Сторінку не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 90
+===============
+[2019-10-14 08:22:13] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 85
+===============
+[2019-10-14 08:22:20] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 85
+===============
+[2019-10-14 08:23:20] Текст помилки: Use of undefined constant matches - assumed 'matches' | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 50
+===============
+[2019-10-14 08:23:21] Текст помилки: Use of undefined constant matches - assumed 'matches' | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 50
+===============
+[2019-10-14 08:23:35] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 86
+===============
+[2019-10-14 08:26:14] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 93
+===============
+[2019-10-14 08:27:16] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 93
+===============
+[2019-10-14 08:27:17] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 93
+===============
+[2019-10-14 08:27:35] Текст помилки: Контролер <b>app\controllers\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 93
+===============
+[2019-10-14 08:27:41] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 93
+===============
+[2019-10-14 08:28:35] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 94
+===============
+[2019-10-14 08:29:55] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 94
+===============
+[2019-10-14 08:29:56] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 94
+===============
+[2019-10-14 08:29:57] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 94
+===============
+[2019-10-14 08:35:39] Текст помилки: Контролер <b>app\controllers\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 94
+===============
+[2019-10-14 08:36:35] Текст помилки: Контролер <b>app\controllers\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:36:51] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:36:57] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:38:03] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:38:15] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:42:10] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 95
+===============
+[2019-10-14 08:45:05] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:46:08] Текст помилки: Контролер <b>app\controllers\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:46:11] Текст помилки: Контролер <b>app\controllers\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:49:45] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:50:22] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:50:48] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:51:02] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:51:35] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:51:51] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:52:00] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:53:36] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:53:37] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 08:53:45] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:00:15] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:04:23] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:04:24] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:04:25] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:04:29] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:04:49] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:06:14] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:26:28] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:28:10] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:30:02] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:30:29] Текст помилки: Контролер <b>app\controllers\AdmiController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:31:11] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:33:30] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:56:42] Текст помилки: Контролер <b>app\controllers\\UserController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
+[2019-10-14 09:57:12] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
+===============
