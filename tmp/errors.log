@@ -1036,3 +1036,7 @@
 ===============
 [2019-10-14 09:57:12] Текст помилки: Контролер <b>app\controllers\\TestController</b> не знайдено | Файл: W:\domains\fw.loc\vendor\core\Router.php, Строка: 96
 ===============
+[2019-10-14 10:53:55] Текст помилки: Function name must be a string | Файл: W:\domains\fw.loc\vendor\core\base\Controller.php, Строка: 28
+===============
+[2019-10-14 10:54:24] Текст помилки: Function name must be a string | Файл: W:\domains\fw.loc\vendor\core\base\Controller.php, Строка: 28
+===============

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11d896cc-f2d6-4b56-8774-71190b606a65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b398a074-31d3-4931-83d2-791954be530d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b398a074-31d3-4931-83d2-791954be530d/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fw.loc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/9037f5df2f7399088b2914d39850305etxt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9037f5df2f7399088b2914d39850305etxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/b2c7af87c45acbb9bf9bd226750b1ec7txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/b2c7af87c45acbb9bf9bd226750b1ec7txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fw: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fw: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="post: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="fw: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="posts: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fw.loc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RY09LEZ5kuUKeJYHMAeURvELcU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql&#10;mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/errors" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\public\menu" />
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\public\errors" />
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\vendor\core" />
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\public\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\public\errors" />
+      <recent name="D:\Downloads\Open Server 5.3.5\OSPanel\domains\fw.loc\vendor\libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@a58202d5" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d896cc-f2d6-4b56-8774-71190b606a65" name="Default Changelist" comment="" />
+      <created>1569828569643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569828569643</updated>
+      <workItem from="1569828570839" duration="243000" />
+      <workItem from="1569847647678" duration="2624000" />
+      <workItem from="1569926294914" duration="4712000" />
+      <workItem from="1569998380754" duration="4126000" />
+      <workItem from="1570098188320" duration="1252000" />
+      <workItem from="1570099453069" duration="129000" />
+      <workItem from="1570099591329" duration="1628000" />
+      <workItem from="1570101233912" duration="1867000" />
+      <workItem from="1570167058486" duration="3579000" />
+      <workItem from="1570173467201" duration="5209000" />
+      <workItem from="1570191367144" duration="185000" />
+      <workItem from="1570191562438" duration="2512000" />
+      <workItem from="1570194093024" duration="870000" />
+      <workItem from="1570254902269" duration="1990000" />
+      <workItem from="1570257662774" duration="1496000" />
+      <workItem from="1570259636858" duration="16000" />
+      <workItem from="1570259664089" duration="6145000" />
+      <workItem from="1570294898229" duration="187000" />
+      <workItem from="1570295097216" duration="390000" />
+      <workItem from="1570295500224" duration="1290000" />
+      <workItem from="1570342050566" duration="2423000" />
+      <workItem from="1570348047302" duration="250000" />
+      <workItem from="1570348307261" duration="6579000" />
+      <workItem from="1570424363990" duration="11793000" />
+      <workItem from="1570513160338" duration="3040000" />
+      <workItem from="1570527079419" duration="8390000" />
+      <workItem from="1570602161030" duration="18998000" />
+      <workItem from="1570687677912" duration="8685000" />
+      <workItem from="1570779787744" duration="2484000" />
+      <workItem from="1570859198444" duration="8415000" />
+      <workItem from="1570917639891" duration="5321000" />
+      <workItem from="1570947492637" duration="2953000" />
+      <workItem from="1570950553196" duration="19000" />
+      <workItem from="1570950582585" duration="15106000" />
+      <workItem from="1571029612957" duration="5408000" />
+      <workItem from="1571036329136" duration="2991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
